@@ -2,42 +2,34 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
 
-    <!-- Civil World Homepage -->
     <url>
         <loc>https://civilworldedu.in/</loc>
     </url>
 
-    <!-- Services -->
     <url>
         <loc>https://civilworldedu.in/services</loc>
     </url>
 
-    <!-- Courses -->
     <url>
         <loc>https://civilworldedu.in/courses</loc>
     </url>
 
-    <!-- Projects -->
     <url>
         <loc>https://civilworldedu.in/projects</loc>
     </url>
 
-    <!-- Free Resources -->
     <url>
         <loc>https://civilworldedu.in/resources</loc>
     </url>
 
-    <!-- Blog -->
     <url>
         <loc>https://civilworldedu.in/blog</loc>
     </url>
 
-    <!-- About Us -->
     <url>
         <loc>https://civilworldedu.in/about</loc>
     </url>
 
-    <!-- Contact -->
     <url>
         <loc>https://civilworldedu.in/contact</loc>
     </url>
